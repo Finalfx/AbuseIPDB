@@ -4,4 +4,5 @@
 159.65.0.17
 159.223.46.184
 195.201.21.34
+*.apple-online.shop
 apple-online.shop
