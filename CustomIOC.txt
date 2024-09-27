@@ -14,7 +14,7 @@
 #BadNewsNetworks
 ################
 212.24.128.0/19
-#185.190.24.0/24 #TestComment
+185.190.24.0/24 #TestComment
 120.50.0.0/19
 #################
 #Bad News Domains
