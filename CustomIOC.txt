@@ -1,8 +1,12 @@
+#Bad News Hosts
 23.95.182.59
 38.132.122.155
 128.140.55.152
 159.65.0.17
 159.223.46.184
 195.201.21.34
+#BadNewsNetworks
+212.24.128.0/19
+#Bad News Domains
 *.apple-online.shop
 apple-online.shop
