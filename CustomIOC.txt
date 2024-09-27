@@ -7,15 +7,21 @@
 159.65.0.17
 159.223.46.184
 195.201.21.34
-177.38.47.195
+177.38.47.195 #Brazil IOC from GOA
+195.1.144.109 #Norway IOC from Weekly Reports
 187.182.170.94 #Brazil IOC from GOA
 177.38.47.196 #Brazil IOC from GOA
+187.182.170.94 #Brazil IOC from GOA
+185.224.128.59 #Netherlands IOC from GOA
 ###############
 #BadNewsNetworks
 ################
 212.24.128.0/19 #CzechRepublic GOA IOC
 185.190.24.0/24 #Aland Islands GOA IOC
 120.50.0.0/19 #Bangladesh GOA IOC
+186.200.64.0/18 #Brazil
+222.186.0.0/16 #China GOA IOC
+202.28.0.0/16 #China GOA IOC
 #################
 #Bad News Domains
 #################
