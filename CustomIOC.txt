@@ -14,12 +14,13 @@
 187.182.170.94
 #Brazil IOC from GOA
 177.38.47.196
-#Brazil IOC from GOA
 187.182.170.94
-#Brazil IOC from GOA
+177.38.47.195
 185.224.128.59
+187.182.170.94
 #Netherlands IOC from GOA
 208.85.16.100
+#TyphoonBotnet 
 45.77.231.209
 139.180.137.219
 45.135.117.131
@@ -106,7 +107,6 @@
 23.236.68.229
 85.90.216.111
 5.45.184.68
-#TyphoonBotnet 
 ###############
 #BadNewsNetworks
 ################
