@@ -179,6 +179,13 @@
 210.242.153.0/24
 #GOA IOC Vietnam
 27.71.224.0/20
+#GOA IOC Korea
+115.94.0.0/17
+#GOA IOC Latvia
+115.94.0.0/15
+#GOA IOC Lithuania
+45.227.254.0/24
+141.98.10.0/24
 #################
 #Bad News Domains
 #################
